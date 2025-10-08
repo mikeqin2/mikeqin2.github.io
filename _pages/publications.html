@@ -1,18 +1,55 @@
 ---
 layout: archive
-title: "Publications"
+# title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
+<!-- {% if site.author.googlescholar %}
   <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+{% endif %} -->
 
-{% include base_path %}
+<section id="preprints">
+  <h2>Preprints</h2>
+
+  <div class="paper">
+    <p><strong>Experience-based Subproblem Planning for Multi-Robot Motion Planning</strong></p>
+    <p>
+      Irving Solis, James Motes, <strong>Mike Qin</strong>, Marco Morales, Nancy M. Amato. 
+      <a href="https://arxiv.org/abs/2411.08851">[Paper]</a> 
+      <!-- <a href="[Website Link]">[Website]</a> 
+      <a href="[Video Link]">[Video]</a> -->
+    </p>
+    <p>Under review for IEEE Robotics and Automation Letters (RA-L).</p>
+  </div>
+</section>
+
+<section id="journal_articles">
+  <h2>Journal Articles</h2>
+
+  <div class="paper">
+    <p><strong>K-ARC: Adaptive Robot Coordination for Multi-Robot Kinodynamic Planning</strong></p>
+    <p>
+      <strong>Mike Qin</strong>, Irving Solis, James Motes, Marco Morales, Nancy M. Amato. 
+      <a href="https://ieeexplore.ieee.org/abstract/document/11112683/">[Paper]</a>
+    </p>
+    <p>In IEEE Robotics and Automation Letters (RA-L), 2025.</p>
+  </div>
+  <div class="paper">
+    <p><strong>Adaptive robot coordination: A subproblem-based approach for hybrid multi-robot motion planning</strong></p>
+    <p>
+      Irving Solis, James Motes, <strong>Mike Qin</strong>, Marco Morales, Nancy M. Amato.
+      <a href="https://ieeexplore.ieee.org/abstract/document/10577245">[Paper]</a>
+    </p>
+    <p>In IEEE Robotics and Automation Letters (RA-L), 2024.</p>
+  </div>
+
+</section>
+
+<!-- {% include base_path %} -->
 
 <!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
+<!-- {% if site.publication_category %}
   {% for category in site.publication_category  %}
     {% assign title_shown = false %}
     {% for post in site.publications reversed %}
@@ -30,7 +67,4 @@ author_profile: true
   {% for post in site.publications reversed %}
     {% include archive-single.html %}
   {% endfor %}
-{% endif %}
-
-
-
+{% endif %} -->
