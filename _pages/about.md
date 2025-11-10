@@ -12,7 +12,7 @@ I am currently a Robotics Algorithm Engineer at [Ubtech Robotics, Inc.](https://
 My research interests lie in the area of multi-agent systems, task and motion planning, and learning for planning. **I'm looking for a PhD position to start in Fall 2026.**
 
 ## News ##
-No news for now
+No news till I'm admitted
 
 <!-- # Publications #
 **M. Qin**, I. Solis, J. D. Motes, M. Morales and N. M. Amato, "K-ARC: Adaptive Robot Coordination for Multi-Robot Kinodynamic Planning," in IEEE Robotics and Automation Letters, vol. 10, no. 10, pp. 10562-10569, Oct. 2025. -->
