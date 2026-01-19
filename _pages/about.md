@@ -11,7 +11,7 @@ I am currently a Robotics Algorithm Engineer at [Ubtech Robotics, Inc.](https://
 
 My research interests lie in the area of multi-agent systems, task and motion planning, and learning for planning. **I'm looking for a PhD position to start in Fall 2026.**
 
-I can be reached at both mikeqin22@outlook.com and yudiqin2@illinois.edu.
+I can be reached at both yudiqin2@illinois.edu and mikeqin22@outlook.com.
 
 ## News ##
 No news till I'm admitted
