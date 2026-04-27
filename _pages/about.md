@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Product Manager at GenRobot.AI, focusing on robotics & embodied AI. Previously, I worked as a Robotics Algorithm Engineer at [Ubtech Robotics, Inc.](https://www.ubtrobot.com/en/), working on developing planning and control algorithms for autonomous vehicles and humanoid robots. Earlier, I obtained my M.S. in computer science from the University of Illinois at Urbana-Champaign (UIUC), advised by Professor [Nancy M. Amato](https://siebelschool.illinois.edu/about/people/all-faculty/namato), and my B.S. in computer science + GIS from UIUC. 
+I am currently a Product Manager at [GenRobot.AI](https://www.genrobot.ai/), focusing on robotics & embodied AI. Previously, I worked as a Robotics Algorithm Engineer at [Ubtech Robotics, Inc.](https://www.ubtrobot.com/en/), working on developing planning and control algorithms for autonomous vehicles and humanoid robots. Earlier, I obtained my M.S. in computer science from the University of Illinois at Urbana-Champaign (UIUC), advised by Professor [Nancy M. Amato](https://siebelschool.illinois.edu/about/people/all-faculty/namato), and my B.S. in computer science + GIS from UIUC. 
 
 Feel free ro reach at me at yudiqin2@illinois.edu.
 
 ## News ##
-2026.4.27 - Starting my new position at GenRobot.AI!
+**2026.4** - Starting my new position at GenRobot.AI!
 
 <!-- # Publications #
 **M. Qin**, I. Solis, J. D. Motes, M. Morales and N. M. Amato, "K-ARC: Adaptive Robot Coordination for Multi-Robot Kinodynamic Planning," in IEEE Robotics and Automation Letters, vol. 10, no. 10, pp. 10562-10569, Oct. 2025. -->
