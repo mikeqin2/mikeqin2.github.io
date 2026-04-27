@@ -12,7 +12,7 @@ I am currently a Product Manager at GenRobot.AI, focusing on robotics & embodied
 Feel free ro reach at me at yudiqin2@illinois.edu.
 
 ## News ##
-No news till I'm admitted
+2026.4.27 - Starting my new position at GenRobot.AI!
 
 <!-- # Publications #
 **M. Qin**, I. Solis, J. D. Motes, M. Morales and N. M. Amato, "K-ARC: Adaptive Robot Coordination for Multi-Robot Kinodynamic Planning," in IEEE Robotics and Automation Letters, vol. 10, no. 10, pp. 10562-10569, Oct. 2025. -->
