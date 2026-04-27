@@ -7,11 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Robotics Algorithm Engineer at [Ubtech Robotics, Inc.](https://www.ubtrobot.com/en/), working on developing planning and control algorithms for autonomous vehicles and humanoid robots. Previously, I obtained my M.S. in computer science from the University of Illinois at Urbana-Champaign (UIUC), advised by Professor [Nancy M. Amato](https://siebelschool.illinois.edu/about/people/all-faculty/namato), and my B.S. in computer science + GIS from UIUC. 
+I am currently a Product Manager at GenRobot.AI, focusing on robotics & embodied AI. Previously, I worked as a Robotics Algorithm Engineer at [Ubtech Robotics, Inc.](https://www.ubtrobot.com/en/), working on developing planning and control algorithms for autonomous vehicles and humanoid robots. Earlier, I obtained my M.S. in computer science from the University of Illinois at Urbana-Champaign (UIUC), advised by Professor [Nancy M. Amato](https://siebelschool.illinois.edu/about/people/all-faculty/namato), and my B.S. in computer science + GIS from UIUC. 
 
-My research interests lie in the area of multi-agent systems, task and motion planning, and learning for planning. **I'm looking for a PhD position to start in Fall 2026.**
-
-I can be reached at both yudiqin2@illinois.edu and mikeqin22@outlook.com.
+Feel free ro reach at me at yudiqin2@illinois.edu.
 
 ## News ##
 No news till I'm admitted
