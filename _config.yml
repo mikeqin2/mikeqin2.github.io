@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Yudi Qin | Mike Qin | Yudi Mike Qin | Robotics | UIUC"
+title                    : "Yudi (Mike) Qin"
 title_separator          : "-"
 name                     : &name "Yudi (Mike) Qin"
 description              : &description "Yudi Qin | Mike Qin | Yudi Mike Qin | Robotics | UIUC"    # Update this with a general description of your site, this is the default if not overridden by a page
